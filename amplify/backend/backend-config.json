@@ -1,6 +1,6 @@
 {
   "auth": {
-    "fullstackappade175de": {
+    "fullstackappa5131d56": {
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],
@@ -23,13 +23,6 @@
           "EMAIL"
         ]
       }
-    }
-  },
-  "hosting": {
-    "amplifyhosting": {
-      "service": "amplifyhosting",
-      "type": "cicd",
-      "lastPushTimeStamp": "2021-11-19T05:19:10.982Z"
     }
   }
 }
